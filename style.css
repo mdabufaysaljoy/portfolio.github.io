@@ -718,7 +718,7 @@ height: auto;
 
 /* === mobile responsiv === */
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:600px) {
 
 
     .navList ul{
@@ -726,7 +726,7 @@ height: auto;
     }
 
     .navList ul li a{
-        font-size: .6rem;
+        font-size: .7rem;
     }
     .avater img{
         width: 10rem;
